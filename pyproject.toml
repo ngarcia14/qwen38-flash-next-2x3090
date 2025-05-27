@@ -5,3 +5,4 @@ description = "Qwen3.8-Flash-Next on 2× RTX 3090: with 128 GB RAM up to 4,191 t
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # drop an unused branch
+# keep defaults in sync with the manifest
